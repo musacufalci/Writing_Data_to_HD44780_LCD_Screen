@@ -5,5 +5,4 @@
   
 Hitachi HD44780 LCD denetleyici, tek renkli metin ekranlarıyla sınırlıdır ve genellikle fotokopi makinelerinde, faks makinelerinde, lazer yazıcılarda, endüstriyel test ekipmanlarında ve yönlendiriciler ve depolama cihazları gibi ağ ekipmanlarında kullanılır...
 _______________________________________________________________________________________________________________________________________________________________________
-- The work of the project and software simulation: https://youtu.be/crVk1gK8oNI
-- Design by: https://www.linkedin.com/in/musacufalci/
+- The work of the project and software simulation: https://youtu.be/c1iA0uvufVM
